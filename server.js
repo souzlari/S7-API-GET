@@ -4,9 +4,9 @@ const app = express()
 
 const estados = require("./data/estados-cidades.json")
 
-app.get("/",(request,response) => {
-    response.status(200).send("Testando homework! <3")
-})
+// app.get("/",(request,response) => {
+//     response.status(200).send("Testando homework! <3")
+// })
 
 app.get("/estados/todos",(request,response) => {  
     response.status(200).send(estados)     
