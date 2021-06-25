@@ -1,4 +1,6 @@
+# SERVIDOR FUNCIONANDO:
 
+![server](https://user-images.githubusercontent.com/81570758/123492802-ed989800-d5f0-11eb-894c-0a3c58da2ad6.gif)
 
 # Para casa!
 
